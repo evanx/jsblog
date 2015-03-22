@@ -1,14 +1,14 @@
 
-## PS. This is a "Just Snippets" technical article
 
-This is repo not a useable project, just some technical articles and accompanying snippets from my JavaScript adventures. 
+
+This is repo not a useable project, just some technical notes and accompanying snippets from my JavaScript adventures. 
 
 It's more of a weblog, with each entry pushed to a github directory.
 
 So without further ado...
 
 
-## Hydrating React component state from promises 
+## TechNote: Hydrating React component state from promises 
 
 Consider a rather trivial component which fetches data from some endpoints, to render some content. 
 

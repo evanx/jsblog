@@ -1,5 +1,5 @@
 {
-  "name": "jsblog",
+  "name": "jspatterns",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/evanx/jsblog/issues"
+    "url": "https://github.com/evanx/jspatterns/issues"
   },
-  "homepage": "https://github.com/evanx/jsblog",
+  "homepage": "https://github.com/evanx/jspatterns",
   "dependencies": {
     "async": "^0.9.0",
     "lodash": "^3.5.0",
