@@ -124,14 +124,14 @@ function testFetchURLs() {
 }
 ```
 
-See: https://github.com/evanx/jsbin/blob/master/asyncMap.js
+See: https://github.com/evanx/jsblog/blob/master/asyncMap.js
 
 
 ### Test 
 
 ```shell
-git clone https://github.com/evanx/jsbin.git
-cd jsbin
+git clone https://github.com/evanx/jsblog.git
+cd jsblog
 npm install
 nodejs asyncMap.js
 ```
