@@ -1,3 +1,3 @@
 
-  echo rsync -ra ~/jsbin/*md ~/jsbin/*/*md ~/jsblog/. --exclude .git 
+  echo rsync -av ~/jsbin/*md ~/jsbin/*/*md ~/jsblog/. --exclude .git 
 
